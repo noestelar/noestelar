@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Noé </h1>
+<span align="center">![](https://komarev.com/ghpvc/?username=noestelar&style=flat-square&color=blue)</span>
 I'm a software engineer, from Mexico City 🇲🇽 to your 127.0.0.1
 
 
